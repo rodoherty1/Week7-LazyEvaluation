@@ -1,4 +1,4 @@
-name := "N-Queens problem"
+name := "Week 7 - Functional Programming in Scala"
 
 version := "1.0"
 
